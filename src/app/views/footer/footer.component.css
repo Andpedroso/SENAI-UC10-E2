@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web&display=swap');
+
+footer
+{
+    background-color: #808080;
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+}
+
+.paginas_footer
+{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    color: white;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.paginas_footer a
+{
+    
+    text-decoration: none;
+    text-transform: uppercase;
+    margin: 20px;
+    color: white;
+}

@@ -1,0 +1,19 @@
+<app-header></app-header>
+<section class="noticia_grid">
+    <div>
+        <div>
+            <h2>Notícias</h2>
+            <div>
+                <div *ngFor='let noticia of noticias' >
+                    <div class="card">
+                        <h3>{{noticia.titulo}}</h3>
+                        <p>{{noticia.descricao}}</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<img src="assets/game.jpg" alt="">
+<h1>Bem Vindo</h1>
+<app-footer></app-footer>

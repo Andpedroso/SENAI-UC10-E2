@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "email": "ankpedroso@gmail.com",
+      "password": "$2a$10$SJvG.AUgKrSGj7rbM28oXuCyQoiBsftaBX.BLv5HEEX63tW68mkUG",
+      "id": 1
+    }
+  ],
+  "noticias": [
+    {
+      "id": "1",
+      "titulo": "Título1",
+      "descricao": "descrição1"
+    }
+  ]
+}
